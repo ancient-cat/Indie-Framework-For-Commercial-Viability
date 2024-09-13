@@ -7,7 +7,7 @@ This is the checklist document of [Jonas Tyroller's framework for commercial suc
 ## Framework
 
 
-- [ ] **Fun** — for keeping players
+- [ ] **Is Fun** — for keeping players
 - [ ] **Appealing** — for gaining players
 - [ ] **Within Scope** — for finishing in a reasonable time
 - [ ] **Monetizable** — for paying rent
